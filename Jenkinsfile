@@ -28,4 +28,4 @@ pipeline {
             echo 'prod deploy project'    
                 } }
            }
-        }
+}
